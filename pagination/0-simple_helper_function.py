@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 def index_range(page: int, page_size: int) -> tuple:
     """
     Return a tuple of start and end index for pagination.
